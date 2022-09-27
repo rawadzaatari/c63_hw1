@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maserati Granturismo Mc Stradale
+* source:	https://sketchfab.com/3d-models/maserati-granturismo-mc-stradale-c4aa1cf6461048e3b75a77ff027f90c6
+* author:	Marcos Gigena (https://sketchfab.com/MarcosGigena)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maserati Granturismo Mc Stradale" (https://sketchfab.com/3d-models/maserati-granturismo-mc-stradale-c4aa1cf6461048e3b75a77ff027f90c6) by Marcos Gigena (https://sketchfab.com/MarcosGigena) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
